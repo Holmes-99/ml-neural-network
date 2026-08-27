@@ -30,7 +30,7 @@ Python, TensorFlow/Keras, matplotlib
 
 ## How to run
 ```
-pip install tensorflow scikit-learn matplotlib numpy
+pip install -r requirements.txt
 jupyter notebook neural_network.ipynb
 ```
 Run the cells top to bottom. Training takes under a minute on CPU.
